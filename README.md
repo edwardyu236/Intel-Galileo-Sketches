@@ -1,4 +1,4 @@
-Intel-Galileo-Sketches
+Intel Galileo Sketches
 ======================
 
 Various Arduino sketches for the Intel Galileo platform.
