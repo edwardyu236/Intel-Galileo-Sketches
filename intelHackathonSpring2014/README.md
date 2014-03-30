@@ -1,4 +1,5 @@
-#Spring 2014 Intel Internet of Things Hackathon at Georgia Tech - Team Tricorder Code
+#Spring 2014 Intel Internet of Things Hackathon at Georgia Tech
+##Team Tricorder (Partial)
 
 Some of the code here are based off of exisiting source code online (they belong to their respective owners):
 
